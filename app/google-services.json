@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "927484186544",
+    "project_id": "finalmibike",
+    "storage_bucket": "finalmibike.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927484186544:android:927d9b03839abf167d5075",
+        "android_client_info": {
+          "package_name": "com.example.finalmibike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927484186544-teo024bs4d4ksik0ijj7u54becg9eoad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.finalmibike",
+            "certificate_hash": "cfee624c492ce51dfcea8d07b0ed134239cede7e"
+          }
+        },
+        {
+          "client_id": "927484186544-e5f9p50td6rqsnqvsnkgk8q7r1pnd6hg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8wSv8zraUjM9bVDAP6y4LqgPMPQVdhJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927484186544-e5f9p50td6rqsnqvsnkgk8q7r1pnd6hg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
